@@ -23,7 +23,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [F
 $ git clone https://github.com/mostafijur566/flutter_movie_api.git
 
 # Go into the repository
-$ cd TMDB-movie-app
+$ cd flutter_movie_api
 
 # Install dependencies
 $ flutter pub get
@@ -76,7 +76,7 @@ The project directory structure is as follows:
 
 Made by [Mostafijur Rahman](https://github.com/mostafijur566)
 
-## :camera_flash:
+## :camera_flash: Screenshots
 
 <img src="ss.1.PNG" width="350" title="hover text">   <img src="ss.2.PNG" width="350" title="hover text">
 <img src="ss.3.PNG" width="350" title="hover text">   <img src="ss.4.PNG" width="350" title="hover text">
