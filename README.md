@@ -20,7 +20,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [F
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/gadgetvala/TMDB-movie-app.git
+$ git clone https://github.com/mostafijur566/flutter_movie_api.git
 
 # Go into the repository
 $ cd TMDB-movie-app
@@ -71,10 +71,6 @@ The project directory structure is as follows:
 ├── pubspec.yaml
 
 ```
-
-## 📘&nbsp; License
-
-The TMDB app is released under the under terms of the [MIT License](LICENSE).
 
 ## :heart: Contributor
 
