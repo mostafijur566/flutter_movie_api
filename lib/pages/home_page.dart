@@ -10,6 +10,7 @@ import 'package:flutter_movie_api/utils/app_constants.dart';
 import 'package:flutter_movie_api/widgets/custom_text_widget.dart';
 import 'package:flutter_movie_api/widgets/small_text_widget.dart';
 import 'package:get/get.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -34,9 +35,9 @@ class HomePage extends StatelessWidget {
         backgroundColor: AppColors.appBarColor,
         title: Row(
           children: [
-            const Icon(Icons.movie),
+            const Icon(FontAwesomeIcons.film),
             SizedBox(width: screenWidth * (20/393),),
-            const Text('The Movie DB'),
+            const Text('The Movies Info'),
           ],
         ),
       ),

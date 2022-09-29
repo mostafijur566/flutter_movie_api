@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
     Get.find<GenresIDController>().getGenresIDList();
     Get.find<TvGenresIdController>().getGenresIDList();
     return GetMaterialApp(
-      title: 'The Movie DB',
+      title: 'The Movies Info',
 
       initialRoute: RouteHelper.getSplashScreen(),
       getPages: RouteHelper.routes,
